@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Rw32Y4sErUl5xMFkPlTVihPw+j0tA7d39iJrzcM+fqCpdvXIrwoXFmLRqDBvisLfh1q9K0S6fkstryk+F+KTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lwazi Nhleko\\Source\\Repos\\MPSASSIGNMENT-7\\DropBox\\DropBox.iOS\\DropBox.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

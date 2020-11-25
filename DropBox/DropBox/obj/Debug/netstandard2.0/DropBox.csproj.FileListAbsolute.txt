@@ -1,0 +1,13 @@
+C:\Users\Lwazi Nhleko\Source\Repos\MPSASSIGNMENT-7\DropBox\DropBox\bin\Debug\netstandard2.0\DropBox.deps.json
+C:\Users\Lwazi Nhleko\Source\Repos\MPSASSIGNMENT-7\DropBox\DropBox\bin\Debug\netstandard2.0\DropBox.dll
+C:\Users\Lwazi Nhleko\Source\Repos\MPSASSIGNMENT-7\DropBox\DropBox\bin\Debug\netstandard2.0\ref\DropBox.dll
+C:\Users\Lwazi Nhleko\Source\Repos\MPSASSIGNMENT-7\DropBox\DropBox\bin\Debug\netstandard2.0\DropBox.pdb
+C:\Users\Lwazi Nhleko\Source\Repos\MPSASSIGNMENT-7\DropBox\DropBox\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Lwazi Nhleko\Source\Repos\MPSASSIGNMENT-7\DropBox\DropBox\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Lwazi Nhleko\Source\Repos\MPSASSIGNMENT-7\DropBox\DropBox\obj\Debug\netstandard2.0\DropBox.AssemblyInfoInputs.cache
+C:\Users\Lwazi Nhleko\Source\Repos\MPSASSIGNMENT-7\DropBox\DropBox\obj\Debug\netstandard2.0\DropBox.AssemblyInfo.cs
+C:\Users\Lwazi Nhleko\Source\Repos\MPSASSIGNMENT-7\DropBox\DropBox\obj\Debug\netstandard2.0\DropBox.csproj.CoreCompileInputs.cache
+C:\Users\Lwazi Nhleko\Source\Repos\MPSASSIGNMENT-7\DropBox\DropBox\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Lwazi Nhleko\Source\Repos\MPSASSIGNMENT-7\DropBox\DropBox\obj\Debug\netstandard2.0\DropBox.dll
+C:\Users\Lwazi Nhleko\Source\Repos\MPSASSIGNMENT-7\DropBox\DropBox\obj\Debug\netstandard2.0\ref\DropBox.dll
+C:\Users\Lwazi Nhleko\Source\Repos\MPSASSIGNMENT-7\DropBox\DropBox\obj\Debug\netstandard2.0\DropBox.pdb
